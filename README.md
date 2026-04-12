@@ -4,7 +4,21 @@
 > a aplicação permite compartilhar experiências, fazer perguntas e encontrar apoio de outros pais que possam ajudar, tudo isso de maneira gamificada, com sistema de ofensivas, por exemplo. Assim como no brainly,
 > a ideia é validar algumas respostas por meio de estudantes de medicina, médicos, enfermeiros, etc.
 
-Repositório no GitHub: 
+Repositório no GitHub: https://github.com/T0RR35/PoPai---G7
+
+## Membros do Grupo
+
+<div align="center">
+
+**Daniel Costa Alves da Cunha**  
+**Felipe Custodio de Souza**  
+**Gabriel Oliveira Alves**  
+**Isaque Eduardo Gonçalves de Paiva**  
+**Gabriel Vinícius Soares Doti**  
+**Rafael Ferreira Torres Modesto**  
+**Rodrigo Ventura Teixeira**
+
+</div>
 
 ---
 
@@ -94,13 +108,13 @@ enriquecendo o ecossistema da aplicação.
 
 ### Matriz CSD (Certezas, Suposições e Dúvidas)
 
-[Acessar Protótipo](...)
+ ![Matriz CSD](./images/csd.jpeg)
 
 ---
 
 ### Mapa de Stakeholders
 
-[Acessar Protótipo](...)
+ ![Mapa de Stakeholders](./images/stakeholder.jpeg)
 
 ---
 
@@ -140,16 +154,16 @@ e necessidades desse público.
 ### Personas
 
 #### Persona 1
- [Acessar Protótipo](...)
+ ![Persona 1](./images/persona1.jpeg)
 
 #### Persona 2
- [Acessar Protótipo](...)
+ ![Persona 2](./images/persona2.jpeg)
 
 #### Persona 3
- [Acessar Protótipo](...)
+ ![Persona 3](./images/persona3.jpeg)
 
 #### Persona 4
- [Acessar Protótipo](...)
+ ![Persona 4](./images/persona4.jpeg)
 
 ---
 
