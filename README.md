@@ -190,11 +190,7 @@ e necessidades desse público.
 
 ### Proposta de Valor
 
-Descreva ou insira o diagrama:
-
-- Produtos e serviços: [...]
-- Dores atendidas: [...]
-- Ganhos gerados: [...]
+ ![Proposta de Valor](./images/propostaValor.jpeg)
 
 ---
 
