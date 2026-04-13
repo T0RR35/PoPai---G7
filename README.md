@@ -198,12 +198,7 @@ e necessidades desse público.
 
 ### Fluxo do Usuário
 
-Descreva o fluxo ou insira imagem:
-
-- Etapas principais:
-  1. [...]
-  2. [...]
-  3. [...]
+![Fluxo de Usuário](./images/fluxo.jpeg)
 
 ---
 
@@ -214,15 +209,12 @@ Inclua imagens ou links:
  ![Wireframe1](./images/w1.jpeg)
  ![Wireframe2](./images/w2.jpeg)
  ![Wireframe3](./images/w3.jpeg)
- ![Wireframe4](./images/w4.jpeg)
 
 ---
 
 ### Protótipo Interativo
 
-Link para o protótipo navegável:
-
-[Acessar Protótipo](https://whimsical.com/felipe-trabalhos2/QUxUQC2e8MLL5VDQte1han@GjdVyJ6vu7AXTo9CRdFtC2Za6rrVKYsPjJJu2bB3m9MR)
+[Acessar Protótipo](https://whimsical.com/2YDbVZseRvkSyxxdjstCin)
 
 ---
 
